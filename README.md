@@ -1,38 +1,23 @@
-## Hey, Geeks!! 👋
 
-<!--
-**Rahul-D78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-
--->
-### :sparkles: One line that describes me best?
-
-<!-- I am a self taught web developer, trying to dive deep in the ocean of web. -->
-
-Humble and honest and always tries put my best to what i am doing. 
-
-### 🤔 What do I do? 
-
- - :green_book: I am a sophomore, with a great interest in Backend ecosystem and competative programming.
- - :green_book: Building projects in web and android. 
- - :green_book: Looking for interesting opportunities in web and android as a full-stack web developer.
-
-### 🌱 What I’m currently learning?
-
-Recently, I am much investing my time in doing competative programming.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hey, nice to see you!</h1>
 
 
+<p>Welcome to my GitHub Profile! <br> I am <b>Rahul</b>. I am a Full Stack Developer, currently living in <b>India</b>. </p>
+<h4>Things I code with :</h4>
+<p>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-Kubernetes-E10098?style=flat-square&logo=kubernetes&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Nginx" src="https://img.shields.io/badge/-Jenkins-CB3837?style=flat-square&logo=jenkins&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
 
-### 📶 Stats:
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=Rahul-D78&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=Rahul-D78&show_icons=true&theme=dracula&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-D78&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://profile-counter.glitch.me/Rahul-D78/count.svg)
+<h4>You can find me on :</h4>
+    <p> <a href="https://github.com/Rahul-D78" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+        <a href="https://medium.com/@rahulparida933" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-00529B.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+        <a href="https://twitter.com/anisha__mohanty" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+        <a href="https://www.linkedin.com/in/rahul-kumar-484354195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    </p>
