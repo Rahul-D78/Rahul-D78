@@ -12,7 +12,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-FFFF00?style=flat-square&logo=jenkins&logoColor=black" />
-    <img alt="linux" src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" />
+    <img alt="linux" src="https://img.shields.io/badge/-Linux-2312100E?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 <h4>You can find me on :</h4>
