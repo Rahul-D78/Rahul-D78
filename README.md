@@ -21,3 +21,5 @@
         <a href="https://twitter.com/#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
         <a href="https://www.linkedin.com/in/rahul-kumar-484354195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
     </p>
+     <a href="https://www.dev.io/in/rahul-kumar-484354195/" target="_blank"><img alt="dev.io" src="https://img.shields.io/badge/dev.io-%230077B5.svg?&style=for-the-badge&logo=dev.io&logoColor=white" /></a> 
+    </p>
