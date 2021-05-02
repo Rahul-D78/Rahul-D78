@@ -5,12 +5,12 @@
 <p>Welcome to my GitHub Profile! <br> I am <b>Rahul</b>. I am a Full Stack Developer, currently living in <b>India</b>. </p>
 <h4>Things I code with :</h4>
 <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-45b8d8?style=flat-square&logo=kubernetes&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
-    <img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-FFFF00?style=flat-square&logo=jenkins&logoColor=black" />
-    <img alt="linux" src="https://img.shields.io/badge/-Linux-0000?style=flat-square&logo=linux&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white" />
+    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-181A18?style=flat-square&logo=nestjs&logoColor=FF0000" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=87CEEB" />
+    <img alt="MongoDb" src="https://img.shields.io/badge/-MongoDb-43853d?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-0000FF?style=flat-square&logo=kubernetes&logoColor=white" />    
 </p>
 
 <h4>You can find me on :</h4>
