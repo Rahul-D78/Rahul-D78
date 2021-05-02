@@ -9,7 +9,7 @@
     <img alt="React" src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white" />
     <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-181A18?style=flat-square&logo=nestjs&logoColor=FF0000" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-181A18?style=flat-square&logo=postgresql&logoColor=87CEEB" />
-    <img alt="MongoDb" src="https://img.shields.io/badge/-MongoDb-43853d?style=flat-square&logo=mongodbl&logoColor=white" />
+    <img alt="MongoDb" src="https://img.shields.io/badge/-MongoDb-43853d?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-0000FF?style=flat-square&logo=kubernetes&logoColor=white" />
     <img alt="elk stack" src="https://img.shields.io/badge/-ELK%20Stack-6610f2?style=flat-square&logo=elasticsearch&logoColor=87CEEB" />    
 </p>
