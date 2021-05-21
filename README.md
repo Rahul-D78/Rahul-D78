@@ -5,7 +5,7 @@
 <p>Welcome to my GitHub Profile! <br> I am <b>Rahul</b>. I am a Full Stack Developer, currently living in <b>India</b>. </p>
 <h4>Tech stacks I code with :</h4>
 <p>
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node-dot-js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white" />
     <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-181A18?style=flat-square&logo=nestjs&logoColor=FF0000" />
     <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-43853d?style=flat-square&logo=spring&logoColor=white"/>
