@@ -13,7 +13,7 @@
     <img alt="MongoDb" src="https://img.shields.io/badge/-MongoDb-43853d?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-0000FF?style=flat-square&logo=kubernetes&logoColor=white" />
     <img alt="elk stack" src="https://img.shields.io/badge/-ELK%20Stack-6610f2?style=flat-square&logo=elasticsearch&logoColor=87CEEB" />
-    <img alt="AWS image" src="https://img.shields.io/badge/-AWS-43853d?style=flat-square&logo=amazon-aws&logoColor=orange" />
+    <img alt="AWS image" src="https://img.shields.io/badge/-AWS-FFA500?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
 <h4>You can find me on :</h4>
