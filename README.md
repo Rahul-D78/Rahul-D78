@@ -3,7 +3,7 @@
 
 
 <p>Welcome to my GitHub Profile! <br> I am <b>Rahul</b>. I am a Full Stack Developer, currently living in <b>India</b>. </p>
-<h4>Things I code with :</h4>
+<h4>Tech stacks I code with :</h4>
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white" />
