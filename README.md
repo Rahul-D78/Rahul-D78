@@ -1,8 +1,18 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hey, nice to see you!</h1>
 
+<img align="right" alt="GIF" src="https://github.com/Rahul-D78/Rahul-D78/blob/master/coding.gif" width="390" height="300" />
 
-<p>Welcome to my GitHub Profile! <br> I am <b>Rahul</b>. I am a Full Stack Developer, currently living in <b>India</b>. </p>
+- 🔭 I’m currently working on web and security related projects.
+- 🌱 I’m currently learning to be more consistent.
+- 👯 I’m looking to collaborate more people.
+- 🤔 I’m looking for help with my networking concepts.
+- 💬 Ask me about web, devops, cloud, microservices.
+- 📫 How to reach me reahulparida933@gmail.com
+- ⚡ Fun fact: If you want to make friends do some open source contributions😀😅
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-D78&theme=default)
+
 <h4>Tech stacks I code with :</h4>
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
