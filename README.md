@@ -1,8 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hey, nice to see you!</h1>
 
-<img align="right" alt="GIF" src="https://github.com/Rahul-D78/Rahul-D78/blob/master/coding.gif" width="350" height="300" />
-
 - 🔭 I’m currently working on web and security related projects.
 - 🌱 I’m currently learning to be more consistent.
 - 👯 I’m looking to collaborate more people.
