@@ -8,6 +8,7 @@
 - 💬 Ask me about web, devops, cloud, microservices.
 - 📫 How to reach me reahulparida933@gmail.com
 - ⚡ Fun fact: If you want to make friends do some open source contributions😀😅
+- 🔥 Life is short keep learning and keep growing .
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-D78&theme=default)
 
