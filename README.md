@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hey, nice to see you!</h1>
 
-- 🔭 I’m currently working on web and security related projects.
+- 🔭 I’m currently working on devops and security related projects.
 - 🌱 I’m currently learning to be more consistent.
 - 👯 I’m looking to collaborate more people.
 - 🤔 I’m looking for help with my networking concepts.
