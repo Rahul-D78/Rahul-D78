@@ -15,6 +15,7 @@
 <h4>Tech stacks I code with :</h4>
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-181A18?style=flat-square&logo=go&logoColor=87CEEB" />
     <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-0000FF?style=flat-square&logo=kubernetes&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white" />
     <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-181A18?style=flat-square&logo=nestjs&logoColor=FF0000" />
