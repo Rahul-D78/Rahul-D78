@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate more people.
 - 🤔 I’m looking for help with my networking concepts.
 - 💬 Ask me about web, devops, cloud, microservices.
-- 📫 How to reach me reahulparida933@gmail.com
+- 📫 How to reach me rahulparida933@gmail.com
 - ⚡ Fun fact: If you want to make friends do some open source contributions😀😅
 - 🔥 Life is short keep learning and keep growing .
 
