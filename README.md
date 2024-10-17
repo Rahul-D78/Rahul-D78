@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on GoLang and Kubernetes.
 - 🌱 I’m currently learning to be more consistent.
 - 👯 I’m looking to collaborate more people.
-- 🤔 I’m looking for help with my design pattern concepts.
 - 💬 Ask me about web, devops, cloud, microservices.
 - 📫 How to reach me rahulparida933@gmail.com.
 - ⚡ Fun fact: If you want to make friends do some open source contributions😀😅
