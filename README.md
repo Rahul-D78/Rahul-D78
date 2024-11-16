@@ -2,8 +2,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hey, nice to see you!</h1>
 
 - 🔭 I’m currently working on GoLang and Kubernetes.
-- 🌱 I’m currently learning to be more consistent.
-- 👯 I’m looking to collaborate more people.
+- 🌱 I’m currently learning advance computer science topics.
+- 👯 I’m looking to collaborate with more people.
 - 💬 Ask me about web, devops, cloud, microservices.
 - 📫 How to reach me rahulparida933@gmail.com.
 - ⚡ Fun fact: If you want to make friends do some open source contributions😀😅
