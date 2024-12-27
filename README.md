@@ -1,6 +1,6 @@
 🌟 About Me
 
-I am a Software Engineer with a deep passion for system programming, cloud-native technologies, networking, security, and the evolving fields of AI/ML and Deep Learning. With 4 years of experience, I specialize in GoLang, Kubernetes controller and operator development, and a wide range of cloud-native technologies, including GitOps, SAAS, CNFs, SDN controllers, and GPU-based workload schedulers... My work focuses on designing and implementing scalable and secure cloud-native applications.
+I am a Software Engineer with a deep passion for system programming, cloud-native technologies, networking, security, and the evolving fields of AI/ML and Deep Learning. With 4 years of experience, I specialize in GoLang, Kubernetes controller and operator development, and a wide range of cloud-native technologies, including GitOps, SAAS, CNFs, SDN controllers, and the GPU-based workload schedulers. My work focuses on designing and implementing scalable and secure cloud-native applications.
 
 - 🌱 Actively exploring advanced topics in computer science to deepen my expertise.
 - 🤝 Open to collaborations on projects related to web development, DevOps, cloud infrastructure, and microservices.
