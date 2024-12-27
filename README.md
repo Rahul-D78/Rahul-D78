@@ -1,12 +1,14 @@
 🌟 About Me
 
-I am a Software Engineer with a deep passion for system programming, cloud-native technologies, networking, security, and the evolving fields of AI/ML and Deep Learning. With 4 years of experience, I specialize in GoLang microservices, Kubernetes controller and operator development, and a wide range of cloud-native technologies, including GitOps, SAAS, CNFs, SDN controllers, and GPU-based workload schedulers. My work focuses on designing and implementing scalable and secure cloud-native applications.
+I am a __Software Engineer__ with a deep passion for system programming, cloud-native technologies, networking, security, and the evolving fields of AI/ML and Deep Learning. With 4 years of experience, I specialize in __GoLang__ microservices, __Kubernetes__ controller and operator development, and a wide range of cloud-native technologies, including __GitOps__, __SAAS__, __CNFs__, __SDN controllers__, and __GPU-based workload schedulers__. My work focuses on __designing__ and __implementing__ scalable and secure cloud-native applications.
 
 - 🌱 Actively exploring advanced topics in computer science to deepen my expertise.
 - 🤝 Open to collaborations on projects related to web development, DevOps, cloud infrastructure, and microservices.
 - 📧 Reach me at: rahulparida933@gmail.com
 - 💡 Fun Fact: Contributing to open-source projects is a great way to build connections and learn from the community.
 - 🔥 Motto: Life is short keep learning, keep growing!
+
+In addition to engineering, I am deeply interested in __research__ and will publish the __research paper__ soon that explore deep dive topics in cloud-native computing, distributed systems, and AI/ML workload scheduling and inferencing.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-D78&theme=default)
 
