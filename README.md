@@ -6,7 +6,7 @@ I am a Software Engineer with a deep passion for system programming, cloud-nativ
 - 🤝 Open to collaborations on projects related to web development, DevOps, cloud infrastructure, and microservices.
 - 📧 Reach me at: rahulparida933@gmail.com
 - 💡 Fun Fact: Contributing to open-source projects is a great way to build connections and learn from the community.
-- 🔥 Motto: Life is short, keep learning, keep growing!
+- 🔥 Motto: Life is short keep learning, keep growing!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-D78&theme=default)
 
